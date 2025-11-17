@@ -1,0 +1,6 @@
+drive a car
+cook
+make soup.
+travel to Europe
+clean the code
+we just made default argument
